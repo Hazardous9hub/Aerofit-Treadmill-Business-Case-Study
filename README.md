@@ -210,7 +210,7 @@ Opportunity: Shift 10% of KP281/KP481 buyers to KP781 = +$25K revenue
 
 **Shivaling** 🧑‍💻
 
-*Data Science Enthusiast | Business Analytics*
+*Data Science Enthusiast | Data Analytics*
 
 📧 **Email**: shivalingb09@gmail.com  
 🐙 **GitHub**: [Hazardous9hub](https://github.com/Hazardous9hub)  
