@@ -6,7 +6,10 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.0+-purple?logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-pink?logo=matplotlib&logoColor=white)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#)
 ![License](https://img.shields.io/badge/License-MIT-green)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 
 **Complete Business Case Study: Data-Driven Customer Insights for Aerofit Fitness Equipment**
 
@@ -142,23 +145,8 @@ This project analyzes **Aerofit treadmill customer data** to identify target aud
 
 3. **Download Dataset**: Right-click [aerofit_treadmill.csv](./aerofit_treadmill.csv) → Save link as...
 
-### Option 2: Run Locally
 
-```bash
-# Clone the repository
-git clone https://github.com/Hazardous9hub/Aerofit-Treadmill-Business-Case-Study.git
-
-# Navigate to project
-cd Aerofit-Treadmill-Business-Case-Study
-
-# Open in Jupyter (if installed)
-jupyter notebook Aerofit_Business_Case_Study.ipynb
-
-# Or open in Google Colab
-# Upload the .ipynb file to colab.research.google.com
-```
-
-### Option 3: Google Colab (Recommended)
+### Option 2: Google Colab (Recommended)
 
 1. Go to [colab.research.google.com](https://colab.research.google.com)
 2. Click "File → Upload notebook"
@@ -226,8 +214,7 @@ Opportunity: Shift 10% of KP281/KP481 buyers to KP781 = +$25K revenue
 
 📧 **Email**: shivalingb09@gmail.com  
 🐙 **GitHub**: [Hazardous9hub](https://github.com/Hazardous9hub)  
-💼 **LinkedIn**: [Connect with me](#) *(add your link)*  
-📍 **Location**: India
+💼 **LinkedIn**: [Shivaling Battarki](https://www.linkedin.com/in/shivaling-93000/)
 
 </div>
 
