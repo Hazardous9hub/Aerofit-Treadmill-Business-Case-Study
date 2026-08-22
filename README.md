@@ -66,6 +66,18 @@ This project analyzes **Aerofit treadmill customer data** to identify target aud
 
 ---
 
+## 📊 Dataset
+
+- **Source**: AeroFit Treadmill dataset (180 customer records, 9 attributes)
+- **File**: [`aerofit_treadmill.csv`](./aerofit_treadmill.csv)
+- **Attributes**: Product, Age, Gender, Education, MaritalStatus, Usage, Fitness, Income, Miles
+
+## 📓 Notebook
+
+- **File**: [`Aerofit_Business_Case_Study.ipynb`](./Aerofit_Business_Case_Study.ipynb)
+- **Run it yourself**:    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hazardous9hub/Aerofit-Treadmill-Business-Case-Study/blob/main/Aerofit_Business_Case_Study.ipynb)
+- **Tools**: Python, Pandas, NumPy, Matplotlib, Seaborn
+
 ## 🔍 Key Findings
 
 ### 📦 Product Distribution
